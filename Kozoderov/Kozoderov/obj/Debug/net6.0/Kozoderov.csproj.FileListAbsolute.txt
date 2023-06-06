@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.exe
+C:\Users\User\source\repos\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.deps.json
+C:\Users\User\source\repos\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.runtimeconfig.json
+C:\Users\User\source\repos\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.dll
+C:\Users\User\source\repos\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.pdb
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.AssemblyInfo.cs
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.dll
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\refint\Kozoderov.dll
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.pdb
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.genruntimeconfig.cache
+C:\Users\User\source\repos\Kozoderov\Kozoderov\obj\Debug\net6.0\ref\Kozoderov.dll
+E:\Новая папка\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.exe
+E:\Новая папка\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.deps.json
+E:\Новая папка\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.runtimeconfig.json
+E:\Новая папка\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.dll
+E:\Новая папка\Kozoderov\Kozoderov\bin\Debug\net6.0\Kozoderov.pdb
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.csproj.AssemblyReference.cache
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.GeneratedMSBuildEditorConfig.editorconfig
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.AssemblyInfoInputs.cache
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.AssemblyInfo.cs
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.csproj.CoreCompileInputs.cache
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.dll
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\refint\Kozoderov.dll
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.pdb
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\Kozoderov.genruntimeconfig.cache
+E:\Новая папка\Kozoderov\Kozoderov\obj\Debug\net6.0\ref\Kozoderov.dll
